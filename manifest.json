@@ -1,0 +1,13 @@
+{
+  "background_color": "#7d2523",
+  "description": "Excelente para suas músicas! Acolhedor e que combina com você",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "sun-music",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "sun-music",
+  "start_url": "/",
+  "theme_color": "#da702e",
+  "id": "sun sun"
+}
